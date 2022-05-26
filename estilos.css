@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body
+{
+    background-color: #f9ead9;
+}
+.seccion
+{
+    height: 100%;
+}
+.nav
+{
+    background-color: #ee7210;
+    text-decoration: none;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.nav a
+{
+    color: white;
+}
+#logo img
+{
+    height: 50px;
+}
+.carousel-inner img
+{
+    height: 600px;
+}
+.seccion p
+{
+    text-align: justify;
+}
+div .tarjeta
+{
+    height: 300px;
+}
+#card-footer
+{
+    text-align: center;
+    background-color: #bdbdc5;
+}
+.derecho
+{
+    color: #002358;
+    text-align: center;
+}
+#datos
+{
+    color: white;
+    background-color: #222238;
+}
+.contacto
+{
+    text-align: right;
+}
+.tarjeta
+{
+    color: #222238;
+    text-decoration: none;
+}
+.card-body
+{
+    background-color: #FFF1DF;
+}
+.card img
+{
+    height: 250px;
+}
+.card
+{
+    height: 400px;
+}
+#formulario
+{
+    border-radius: 10px;
+    background-color: #FFF1DF;
+}
+#boton
+{
+    background-color: #ee7210;
+}
